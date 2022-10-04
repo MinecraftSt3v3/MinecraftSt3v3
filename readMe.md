@@ -1,8 +1,9 @@
 # 💫 About Me:
 
-I've been interested in all things computer related since I was young. I'm currently working as an apprentice DevOps engineer at Liatrio and have been taking college courses for a few years. I've been teaching myself to code for the past few years, and spend a lot of time on online courses and learning about new technologies.I've been interested in all things computer related since I was young. I'm currently working as an apprentice DevOps engineer at Liatrio and have been taking college courses for a few years. I've been teaching myself to code for the past few years, and spend a lot of time on online courses and learning about new technologies.
-
-
+🌱 I'm currently working as an apprentice DevOps engineer at Liatrio
+🇲🇽🇨🇴 Im Mexican and Colombian
+🎓 Chico Satate class of 2023
+ - Computer Information Systems, and minor in Business
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez-steven) 
@@ -22,9 +23,3 @@ I've been interested in all things computer related since I was young. I'm curre
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MinecraftSt3v3&icon=2&color=8)](https://visitcount.itsvg.in)
-
- 
-
-
-
-  
