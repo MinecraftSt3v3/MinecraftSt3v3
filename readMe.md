@@ -3,7 +3,7 @@
 - 🌱 I'm currently working as an apprentice DevOps engineer at Liatrio
 - 🇲🇽🇨🇴 Im Mexican and Colombian
 - 🎓 Chico Satate class of 2023
- - Computer Information Systems, and minor in Business
+ - Computer Information Systems, and minor in Business Administration 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez-steven) 
