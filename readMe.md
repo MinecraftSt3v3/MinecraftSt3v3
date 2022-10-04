@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🌱 I'm currently working as an apprentice DevOps engineer at Liatrio
-🇲🇽🇨🇴 Im Mexican and Colombian
-🎓 Chico Satate class of 2023
+- 🌱 I'm currently working as an apprentice DevOps engineer at Liatrio
+- 🇲🇽🇨🇴 Im Mexican and Colombian
+- 🎓 Chico Satate class of 2023
  - Computer Information Systems, and minor in Business
 
 ## 🌐 Socials:
