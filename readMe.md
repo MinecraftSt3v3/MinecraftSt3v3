@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working as an apprentice at Liatrio, a DevOps company.<br>🌱 I’m currently learning everything DevOps related.
+
+I've been interested in all things computer related since I was young. I'm currently working as an apprentice DevOps engineer at Liatrio and have been taking college courses for a few years. I've been teaching myself to code for the past few years, and spend a lot of time on online courses and learning about new technologies.I've been interested in all things computer related since I was young. I'm currently working as an apprentice DevOps engineer at Liatrio and have been taking college courses for a few years. I've been teaching myself to code for the past few years, and spend a lot of time on online courses and learning about new technologies.
+
 
 
 ## 🌐 Socials:
