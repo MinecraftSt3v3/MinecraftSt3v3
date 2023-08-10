@@ -18,8 +18,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
- ## 💰 You can help me by Donating
-   Buy Me a Coffee -> venmo: @Steven-Mendez-20) 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MinecraftSt3v3&icon=2&color=8)](https://visitcount.itsvg.in)
