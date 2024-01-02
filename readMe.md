@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently working as a Cloud Engineer
 - 🇲🇽🇨🇴 Im Mexican and Colombian
-- 🎓 Chico Satate class of 2023
+- 🎓 Chico State class of 2023
  - Computer Information Systems, and minor in Business Administration 
 
 ## 🌐 Socials:
