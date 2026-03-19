@@ -1,9 +1,8 @@
 # 💫 About Me:
 
-- 🌱 I'm currently working as a Cloud Engineer
-- 🇲🇽🇨🇴 Im Mexican and Colombian
-- 🎓 Chico State class of 2023
- - Computer Information Systems, and minor in Business Administration 
+- 🌱 I'm currently working as a Integration Software Engineer
+- 🇲🇽🇨🇴 Mexican and Colombian
+- Computer Information Systems, and minor in Business Administration 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez-steven) 
